@@ -12,7 +12,7 @@ SearchX is an AI-powered search engine built with Next.js and Exa AI. It provide
 
 ## Tech Stack
 
-- Next.js 13+ (App Router)
+- Next.js 15+ (App Router)
 - Redux for state management
 - Exa AI API
 - TypeScript
